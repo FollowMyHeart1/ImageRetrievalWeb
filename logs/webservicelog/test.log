@@ -1,0 +1,3 @@
+17:44:53.615 [main] INFO  team.culturecomputing.bupt.controller.ImageRetrievalWebApplicationTests - Starting ImageRetrievalWebApplicationTests using Java 15.0.2 on DESKTOP-D6375LN with PID 2324 (started by 曾凡璐 in D:\学习\研一下学期\检索文档\image_retrieval_vgg16\ImageRetrievalWeb)
+17:44:53.653 [main] INFO  team.culturecomputing.bupt.controller.ImageRetrievalWebApplicationTests - No active profile set, falling back to default profiles: default
+17:44:58.944 [main] INFO  team.culturecomputing.bupt.controller.ImageRetrievalWebApplicationTests - Started ImageRetrievalWebApplicationTests in 6.743 seconds (JVM running for 11.892)

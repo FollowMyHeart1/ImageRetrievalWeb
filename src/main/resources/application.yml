@@ -1,0 +1,18 @@
+
+  
+spring:
+  servlet:
+    multipart:
+      maxFileSize: 50MB
+      maxRequestSize: 50MB
+
+  mvc:
+    static-path-pattern: /imageretrievalvgg16/image/**
+  web:
+    resources:
+      static-locations: file:/home/zengfanlu/workspace/image-retrieval-vgg16/database/
+server:
+  port: 8890
+  
+queryImagePath: /home/zengfanlu/workspace/image-retrieval-vgg16/queryimage/
+sokcetPort: 12345
